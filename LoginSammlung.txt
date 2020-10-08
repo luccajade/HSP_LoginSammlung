@@ -11,7 +11,7 @@ WilkoLu
 # Gruppe_C
 
 # Gruppe_D
-+ LuccaJade
+
 # Gruppe_E
 
 # Gruppe_F
@@ -21,7 +21,10 @@ WilkoLu
 # Gruppe_H
 
 # Gruppe_I
-
+LuccaJade
+Christoeph
+Ru2069
+XinyuChen
 # Gruppe_J
 
 # Gruppe_K
